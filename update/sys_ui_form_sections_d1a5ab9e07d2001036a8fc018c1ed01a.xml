@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="d1a5ab9e07d2001036a8fc018c1ed01a" sys_domain="global" table="x_428378_support_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-14 23:49:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>51a5ab9e07d2001036a8fc018c1ed01c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_428378_support_request" name="x_428378_support_request" sys_domain="global" view="5da56b9e07d2001036a8fc018c1ed07e">d1a5ab9e07d2001036a8fc018c1ed01a</sys_ui_form>
+            <sys_ui_section caption="Related Section" display_value="Related Section" name="x_428378_support_request" sys_domain="global" view="5da56b9e07d2001036a8fc018c1ed07e">9da5ab9e07d2001036a8fc018c1ed017</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-14 23:49:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-14 23:49:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1da5ab9e07d2001036a8fc018c1ed01c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_428378_support_request" name="x_428378_support_request" sys_domain="global" view="5da56b9e07d2001036a8fc018c1ed07e">d1a5ab9e07d2001036a8fc018c1ed01a</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_428378_support_request" sys_domain="global" view="5da56b9e07d2001036a8fc018c1ed07e">95a5ab9e07d2001036a8fc018c1ed018</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-14 23:49:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-14 23:49:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9da5ab9e07d2001036a8fc018c1ed01f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_428378_support_request" name="x_428378_support_request" sys_domain="global" view="5da56b9e07d2001036a8fc018c1ed07e">d1a5ab9e07d2001036a8fc018c1ed01a</sys_ui_form>
+            <sys_ui_section caption="Work History" display_value="Work History" name="x_428378_support_request" sys_domain="global" view="5da56b9e07d2001036a8fc018c1ed07e">9da5ab9e07d2001036a8fc018c1ed018</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-14 23:49:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-14 23:49:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>91a5ab9e07d2001036a8fc018c1ed023</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_428378_support_request" name="x_428378_support_request" sys_domain="global" view="5da56b9e07d2001036a8fc018c1ed07e">d1a5ab9e07d2001036a8fc018c1ed01a</sys_ui_form>
+            <sys_ui_section caption="Audit Information" display_value="Audit Information" name="x_428378_support_request" sys_domain="global" view="5da56b9e07d2001036a8fc018c1ed07e">95a5ab9e07d2001036a8fc018c1ed019</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-14 23:49:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_428378_support_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-14 23:49:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d1a5ab9e07d2001036a8fc018c1ed01a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_428378_support_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Support Request" source="x_428378_support">4929a6960712001036a8fc018c1ed096</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Support Request">4929a6960712001036a8fc018c1ed096</sys_scope>
+            <sys_update_name>sys_ui_form_sections_d1a5ab9e07d2001036a8fc018c1ed01a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-14 23:49:24</sys_updated_on>
+            <sys_user/>
+            <view display_value="My SR View" name="My_SR_View">5da56b9e07d2001036a8fc018c1ed07e</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

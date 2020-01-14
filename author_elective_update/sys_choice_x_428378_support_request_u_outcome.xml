@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_outcome" table="x_428378_support_request" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_outcome</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Approved</label>
+            <language>en</language>
+            <name>x_428378_support_request</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-14 23:23:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fcdfdf1a07d2001036a8fc018c1ed0f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-14 23:23:59</sys_updated_on>
+            <value>approved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_outcome</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reject</label>
+            <language>en</language>
+            <name>x_428378_support_request</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-14 23:23:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>70dfdf1a07d2001036a8fc018c1ed0f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-14 23:23:59</sys_updated_on>
+            <value>reject</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_outcome</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MoreInfo Needed</label>
+            <language>en</language>
+            <name>x_428378_support_request</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-14 23:23:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>30dfdf1a07d2001036a8fc018c1ed0fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-14 23:23:59</sys_updated_on>
+            <value>moreinfo needed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_outcome</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Work In Progress</label>
+            <language>en</language>
+            <name>x_428378_support_request</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-14 23:23:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fcdfdf1a07d2001036a8fc018c1ed0fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-14 23:23:59</sys_updated_on>
+            <value>work in progress</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_outcome</element>
+            <name>x_428378_support_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-14 23:23:59</sys_created_on>
+            <sys_id>38dfdf1a07d2001036a8fc018c1ed0f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_outcome</sys_name>
+            <sys_package display_value="Support Request" source="x_428378_support">4929a6960712001036a8fc018c1ed096</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Support Request">4929a6960712001036a8fc018c1ed096</sys_scope>
+            <sys_update_name>sys_choice_x_428378_support_request_u_outcome</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-14 23:23:59</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="contract_id" label="Contract ID" language="en" table="x_428378_support_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>contract_id</element>
+            <help/>
+            <hint/>
+            <label>Contract ID</label>
+            <language>en</language>
+            <name>x_428378_support_request</name>
+            <plural>Contract IDs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-14 20:42:39</sys_created_on>
+            <sys_id>35eaf2d60752001036a8fc018c1ed05f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Contract ID</sys_name>
+            <sys_package display_value="Support Request" source="x_428378_support">4929a6960712001036a8fc018c1ed096</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Support Request">4929a6960712001036a8fc018c1ed096</sys_scope>
+            <sys_update_name>sys_documentation_x_428378_support_request_contract_id_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-14 20:42:39</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

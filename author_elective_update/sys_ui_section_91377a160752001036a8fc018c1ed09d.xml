@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Parent Object Details" section_id="91377a160752001036a8fc018c1ed09d" sys_domain="global" table="x_428378_support_request" version="3" view="Open_SR">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>oppty_id</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-14 20:26:31</sys_created_on>
+            <sys_id>15377a160752001036a8fc018c1ed0a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Parent Object Details" display_value="Parent Object Details" name="x_428378_support_request" sys_domain="global" view="55377a160752001036a8fc018c1ed099">91377a160752001036a8fc018c1ed09d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-14 20:26:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-14 20:26:31</sys_created_on>
+            <sys_id>95377a160752001036a8fc018c1ed0a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Parent Object Details" display_value="Parent Object Details" name="x_428378_support_request" sys_domain="global" view="55377a160752001036a8fc018c1ed099">91377a160752001036a8fc018c1ed09d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-14 20:26:31</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contract_id</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-14 20:26:31</sys_created_on>
+            <sys_id>19377a160752001036a8fc018c1ed0a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Parent Object Details" display_value="Parent Object Details" name="x_428378_support_request" sys_domain="global" view="55377a160752001036a8fc018c1ed099">91377a160752001036a8fc018c1ed09d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-14 20:26:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Parent Object Details</caption>
+            <header>false</header>
+            <name>x_428378_support_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-14 20:26:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>91377a160752001036a8fc018c1ed09d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Parent Object Details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Support Request" source="x_428378_support">4929a6960712001036a8fc018c1ed096</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Support Request">4929a6960712001036a8fc018c1ed096</sys_scope>
+            <sys_update_name>sys_ui_section_91377a160752001036a8fc018c1ed09d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-14 20:26:31</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Open SR" name="Open_SR">55377a160752001036a8fc018c1ed099</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Support Request">4929a6960712001036a8fc018c1ed096</application>
+        <file_path/>
+        <instance_id>35e751f1db5bbb880b9d21c40596193d</instance_id>
+        <instance_name>dev91948</instance_name>
+        <name>sys_ui_section_91377a160752001036a8fc018c1ed09d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Parent Object Details" section_id="91377a160752001036a8fc018c1ed09d" sys_domain="global" table="x_428378_support_request" version="3" view="Open_SR"><sys_ui_element action="INSERT_OR_UPDATE"><element>oppty_id</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-14 20:26:31</sys_created_on><sys_id>15377a160752001036a8fc018c1ed0a8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Parent Object Details" display_value="Parent Object Details" name="x_428378_support_request" sys_domain="global" view="55377a160752001036a8fc018c1ed099">91377a160752001036a8fc018c1ed09d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-14 20:26:31</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-14 20:26:31</sys_created_on><sys_id>95377a160752001036a8fc018c1ed0a8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Parent Object Details" display_value="Parent Object Details" name="x_428378_support_request" sys_domain="global" view="55377a160752001036a8fc018c1ed099">91377a160752001036a8fc018c1ed09d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-14 20:26:31</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>contract_id</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-14 20:26:31</sys_created_on><sys_id>19377a160752001036a8fc018c1ed0a8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Parent Object Details" display_value="Parent Object Details" name="x_428378_support_request" sys_domain="global" view="55377a160752001036a8fc018c1ed099">91377a160752001036a8fc018c1ed09d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-14 20:26:31</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Parent Object Details</caption><header>false</header><name>x_428378_support_request</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-14 20:26:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>91377a160752001036a8fc018c1ed09d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Parent Object Details</sys_name><sys_overrides/><sys_package display_value="Support Request" source="x_428378_support">4929a6960712001036a8fc018c1ed096</sys_package><sys_policy/><sys_scope display_value="Support Request">4929a6960712001036a8fc018c1ed096</sys_scope><sys_update_name>sys_ui_section_91377a160752001036a8fc018c1ed09d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-14 20:26:31</sys_updated_on><sys_user/><title>false</title><view display_value="Open SR" name="Open_SR">55377a160752001036a8fc018c1ed099</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>536105401</payload_hash>
+        <record_name>Request</record_name>
+        <reverted_from/>
+        <source>4d29a6960712001036a8fc018c1ed098</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-14 20:26:31</sys_created_on>
+        <sys_id>dd377a160752001036a8fc018c1ed0a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16fa5bc7ed20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-14 20:26:31</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>59377a162b5200109e5d591ca92fa0a9</update_guid>
+        <update_guid_history>59377a162b5200109e5d591ca92fa0a9:536105401</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-14 20:34:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>03fb9f0fca9e40338012b8b2a9534099</sys_id>
+        <sys_metadata>91377a160752001036a8fc018c1ed09d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Parent Object Details</sys_name>
+        <sys_package display_value="Support Request" source="x_428378_support">4929a6960712001036a8fc018c1ed096</sys_package>
+        <sys_parent display_value="">e58b665a0712001036a8fc018c1ed043</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Support Request">4929a6960712001036a8fc018c1ed096</sys_scope>
+        <sys_scope_delete display_value="">0a9f6ad7eff044fc8dfbeeff3648cc81</sys_scope_delete>
+        <sys_update_name>sys_ui_section_91377a160752001036a8fc018c1ed09d</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_91377a160752001036a8fc018c1ed09d">dd377a160752001036a8fc018c1ed0a9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-14 20:34:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

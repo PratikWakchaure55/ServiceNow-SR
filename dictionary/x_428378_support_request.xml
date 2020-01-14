@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Support Request" max_length="40" name="x_428378_support_request" type="collection">
+        <element label="Contract ID" max_length="15" name="contract_id" type="string"/>
+        <element label="Opty ID" max_length="15" name="opty_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="work in progress" label="Outcome" mandatory="true" max_length="40" name="u_outcome" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Approved" sequence="0" value="approved"/>
+                <element inactive_on_update="false" label="Reject" sequence="1" value="reject"/>
+                <element inactive_on_update="false" label="MoreInfo Needed" sequence="2" value="moreinfo needed"/>
+                <element inactive_on_update="false" label="Work In Progress" sequence="3" value="work in progress"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Pricing Review" max_length="1024" name="u_price_review" type="url"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Request Reason" mandatory="true" max_length="40" name="u_request_reason" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Request Type" mandatory="true" max_length="40" name="u_request_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+    </element>
+</database>

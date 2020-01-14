@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_sr_status" table="x_428378_support_request" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_sr_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>More Info needed</label>
+            <language>en</language>
+            <name>x_428378_support_request</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-14 20:29:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7cd7b2560752001036a8fc018c1ed07f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-14 20:29:12</sys_updated_on>
+            <value>more info needed</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_sr_status</element>
+            <name>x_428378_support_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-14 20:29:12</sys_created_on>
+            <sys_id>78d7b2560752001036a8fc018c1ed07d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_sr_status</sys_name>
+            <sys_package display_value="Support Request" source="x_428378_support">4929a6960712001036a8fc018c1ed096</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Support Request">4929a6960712001036a8fc018c1ed096</sys_scope>
+            <sys_update_name>sys_choice_x_428378_support_request_u_sr_status</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-14 20:29:12</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Support Request">4929a6960712001036a8fc018c1ed096</application>
+        <file_path/>
+        <instance_id>35e751f1db5bbb880b9d21c40596193d</instance_id>
+        <instance_name>dev91948</instance_name>
+        <name>sys_choice_x_428378_support_request_u_sr_status</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="u_sr_status" table="x_428378_support_request" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>u_sr_status</element><hint/><inactive>false</inactive><label>More Info needed</label><language>en</language><name>x_428378_support_request</name><sequence>3</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-14 20:29:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7cd7b2560752001036a8fc018c1ed07f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-14 20:29:12</sys_updated_on><value>more info needed</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>u_sr_status</element><name>x_428378_support_request</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-14 20:29:12</sys_created_on><sys_id>78d7b2560752001036a8fc018c1ed07d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_sr_status</sys_name><sys_package display_value="Support Request" source="x_428378_support">4929a6960712001036a8fc018c1ed096</sys_package><sys_policy/><sys_scope display_value="Support Request">4929a6960712001036a8fc018c1ed096</sys_scope><sys_update_name>sys_choice_x_428378_support_request_u_sr_status</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-14 20:29:12</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>497963738</payload_hash>
+        <record_name>x_428378_support_request.u_sr_status</record_name>
+        <reverted_from/>
+        <source>4d29a6960712001036a8fc018c1ed098</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-14 20:34:30</sys_created_on>
+        <sys_id>5e09b6960752001036a8fc018c1ed050</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16fa5c3ced10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-14 20:34:30</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>d609b696c652001014975bdc4347b250</update_guid>
+        <update_guid_history>d609b696c652001014975bdc4347b250:497963738,9209b696a552001014714392eb43864e:-735799953,5e09b696065200103108f13dee87584b:623844725,f4d7b256155200103a67aeb5f8cec781:-1999347494</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-14 20:34:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>78d7b2560752001036a8fc018c1ed07d</sys_id>
+        <sys_metadata>78d7b2560752001036a8fc018c1ed07d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_sr_status</sys_name>
+        <sys_package display_value="Support Request" source="x_428378_support">4929a6960712001036a8fc018c1ed096</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Support Request">4929a6960712001036a8fc018c1ed096</sys_scope>
+        <sys_scope_delete display_value="">0a9f6ad7eff044fc8dfbeeff3648cc81</sys_scope_delete>
+        <sys_update_name>sys_choice_x_428378_support_request_u_sr_status</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_428378_support_request_u_sr_status">5e09b6960752001036a8fc018c1ed050</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-14 20:34:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

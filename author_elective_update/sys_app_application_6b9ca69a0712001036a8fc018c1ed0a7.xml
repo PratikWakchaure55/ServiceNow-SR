@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Support Request Details</description>
+        <device_type>browser</device_type>
+        <hint>Support Request Details</hint>
+        <name/>
+        <order/>
+        <roles>x_428378_support.SR_admin,x_428378_support.SR_Contract_specialist,x_428378_support.SR_Executive</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-14 19:40:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6b9ca69a0712001036a8fc018c1ed0a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Support Request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Support Request" source="x_428378_support">4929a6960712001036a8fc018c1ed096</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Support Request">4929a6960712001036a8fc018c1ed096</sys_scope>
+        <sys_update_name>sys_app_application_6b9ca69a0712001036a8fc018c1ed0a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-14 19:40:14</sys_updated_on>
+        <title>Support Request</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Support Request">4929a6960712001036a8fc018c1ed096</application>
+        <file_path/>
+        <instance_id>35e751f1db5bbb880b9d21c40596193d</instance_id>
+        <instance_name>dev91948</instance_name>
+        <name>sys_app_application_6b9ca69a0712001036a8fc018c1ed0a7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="">Custom Applications</category><description>Support Request Details</description><device_type>browser</device_type><hint>Support Request Details</hint><name/><order/><roles>x_428378_support.SR_admin,x_428378_support.SR_Contract_specialist,x_428378_support.SR_Executive</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-14 19:40:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6b9ca69a0712001036a8fc018c1ed0a7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Support Request</sys_name><sys_overrides/><sys_package display_value="Support Request" source="x_428378_support">4929a6960712001036a8fc018c1ed096</sys_package><sys_policy/><sys_scope display_value="Support Request">4929a6960712001036a8fc018c1ed096</sys_scope><sys_update_name>sys_app_application_6b9ca69a0712001036a8fc018c1ed0a7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-14 19:40:14</sys_updated_on><title>Support Request</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-1011155891</payload_hash>
+        <record_name>Support Request</record_name>
+        <reverted_from/>
+        <source>4d29a6960712001036a8fc018c1ed098</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-14 19:40:14</sys_created_on>
+        <sys_id>ef9ca69a0712001036a8fc018c1ed0aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16fa59220f90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-14 19:40:14</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>2b9ca69ab01200106a40ef3623eacbaa</update_guid>
+        <update_guid_history>2b9ca69ab01200106a40ef3623eacbaa:-1011155891</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Support Request">ceab535607d2001036a8fc018c1ed022</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-14 23:05:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>141b3aa7f2864ae08c0a6c3ff2970e40</sys_id>
+        <sys_metadata>6b9ca69a0712001036a8fc018c1ed0a7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Support Request</sys_name>
+        <sys_package display_value="Support Request" source="x_428378_support">4929a6960712001036a8fc018c1ed096</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Support Request">4929a6960712001036a8fc018c1ed096</sys_scope>
+        <sys_scope_delete display_value="">0a9f6ad7eff044fc8dfbeeff3648cc81</sys_scope_delete>
+        <sys_update_name>sys_app_application_6b9ca69a0712001036a8fc018c1ed0a7</sys_update_name>
+        <sys_update_version display_value="sys_app_application_6b9ca69a0712001036a8fc018c1ed0a7">ef9ca69a0712001036a8fc018c1ed0aa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-14 23:05:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
